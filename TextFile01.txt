@@ -1,4 +1,8 @@
 Good Morning World
 perhaps
 let's go
+<<<<<<< HEAD
 praktikum
+=======
+alala
+>>>>>>> 6fbaf2ac3e22088f56a0bd3ae5044e43f58f08d9
