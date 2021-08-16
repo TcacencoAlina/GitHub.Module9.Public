@@ -1,0 +1,7 @@
+per_cent = {'TKB': 5.6, 'SKB': 5.9, 'VTB': 4.28, 'SBER': 4.0}
+
+f = list(per_cent.values())
+
+b = int(input("Enter summ of money:"))
+depozit = [int((x*b)/100) for x in f]
+print(depozit)
